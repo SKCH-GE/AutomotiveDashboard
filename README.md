@@ -2,6 +2,9 @@
 
 A modern, customizable automotive dashboard built with Qt/QML featuring real-time gauges, notifications, and interactive controls.
 
+![image](https://github.com/user-attachments/assets/875046f0-73de-4511-b69a-2f08173aebfd)
+
+
 ## Features
 
 - **Real-time Gauges**: Speed, gear, fuel level, and engine temperature visualization

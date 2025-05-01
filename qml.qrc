@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/CircularGauge.qml</file>
+        <file>QML/Dashboard.qml</file>
+        <file>QML/main.qml</file>
+        <file>QML/ValueSlider.qml</file>
+        <file>QML/NotificationSystem.qml</file>
+    </qresource>
+</RCC>
